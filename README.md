@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://dveersingh000.github.io/My-Portfolio/" target="_blank"> Dharamveer Singh </a></h1>
+<hr>
 <h3 align="center">A Passionate Developer</h3>
 
 
@@ -19,7 +20,7 @@
  <h3 align="left"><img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> My Coding Profiles :</h3> 
    <a href="https://www.hackerrank.com/profile/dveersingh000"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://leetcode.com/dveersingh000/"><img alt="Leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/dveersingh000/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-000000?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/dveersingh000/"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-FF5733?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/></a>
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Skills :</h3>
@@ -48,7 +49,7 @@
 
 You can check work done by me on my portfolio website.
 
-[My Portfolio Website !](https://auth.geeksforgeeks.org/user/dveersingh000)
+[My Portfolio Website !](https://dveersingh000.github.io/My-Portfolio/)
 
 
 <br/>
@@ -56,9 +57,6 @@ You can check work done by me on my portfolio website.
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dveersingh000&show_icons=true&theme=dark&locale=en&layout=compact" alt="dveersingh000" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dveersingh000&theme=dark" alt="dveersingh000" /></td>
   </tr>
 </table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dveersingh000&theme=dark" alt="dveersingh000" /></p>
-  </div>
