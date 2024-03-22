@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://dveersingh000.github.io/My-Portfolio/" target="_blank"> Dharamveer Singh </a></h1>
-<hr>
 <h3 align="center">A Passionate Developer</h3>
 
 
