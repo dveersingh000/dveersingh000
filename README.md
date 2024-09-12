@@ -1,12 +1,24 @@
-<h1 align="center">Hi there, I'm <a href="https://dveersingh000.github.io/My-Portfolio/" target="_blank"> Dharamveer Singh </a></h1>
-<h3 align="center">A Passionate Developer</h3>
+![boitumelo-phetla-4x09JNBx554-unsplash](https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg)
+
+<h1 align="center">Hey there! 👋, I'm <a href="https://dveersingh000.github.io/My-Portfolio/" target="_blank"> Dharamveer Singh 👨‍💻🌱</a></h1>
+<h3 align="center">Passionate Frontend Web Developer 👨‍💻</h3>
 
 
-- 🚀 Learning Never Stops.
-- 🌱 I’m currently learning Javascript.
-- 👯 I’m always looking forward to collaborate with developers.
-- I like to read Self-Help Books and listen to Podcast.
-- 💬 Ask me about **Web Development, DBMS, SQL** 
+### ✨ Quick Facts
+
+- 🌱 I’m currently learning **JavaScript ES6, React JS, & Django Frameworks & Libraries. 🥀**
+
+- 🙌 I’m looking to collaborate on **Frontend Web Application - React JS.**
+
+- 👨‍💻 All of my projects are available at **[Portfolio](https://github.com/dveersingh000?tab=repositories).**
+
+- 💬 Ask me about **HTML - 5, CSS - 3, JavaScript ES6, React JS, MongoDB, RESTAPI. 🥀**
+
+- 📫 How to reach me **dveersingh000@gmail.com.**
+
+- 📄 Know about my experiences **[Curriculum Vitae](https://drive.google.com/file/d/1WPw4nnkkkTHsyxNySom5YrqJvAqu9rBG/view?usp=share_link)**
+
+- ⚡ Fun fact **"I am a Computer Graduate" === "Full Stack!"😁**
 
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
 <div align="left">
