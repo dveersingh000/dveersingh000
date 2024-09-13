@@ -16,9 +16,6 @@
 
 - 📫 How to reach me **dveersingh000@gmail.com.**
 
-- 📄 Know about my experiences **[Curriculum Vitae](https://drive.google.com/file/d/1WPw4nnkkkTHsyxNySom5YrqJvAqu9rBG/view?usp=share_link)**
-
-- ⚡ Fun fact **"I am a Computer Graduate" === "Full Stack!"😁**
 
 <h3 align="left"><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Connect with me :</h3>
 <div align="left">
