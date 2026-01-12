@@ -17,7 +17,7 @@
 
 ### 💼 Featured Project
 
-#### 🔹 WorkLah – Job Search Platform (Admin Panel)
+#### 🔹 WorkLah – Job Search Platform
 
 A production-ready job search platform built for managing employers, jobs, and applications.
 
@@ -75,7 +75,6 @@ A production-ready job search platform built for managing employers, jobs, and a
 ### 
 
 [My Portfolio Website !](https://dveersingh000.github.io/My-Portfolio/)
-
 
 <br/>
 
