@@ -1,7 +1,7 @@
-<!--  PROFILE VISIT COUNTER  -->
-  <tr>
-   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" /></p>
-  </tr>
+<!-- PROFILE VISIT COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DharamveerSingh&abbreviated=true&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
   
 ![Profile Banner](https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg)
 
