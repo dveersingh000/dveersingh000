@@ -1,3 +1,8 @@
+<!--  PROFILE VISIT COUNTER  -->
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="lassiecoder" /></p>
+  </tr>
+  
 ![Profile Banner](https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg)
 
 <h1 align="center">Hey there 👋, I'm <a href="https://dveersingh000.github.io/My-Portfolio/" target="_blank">Dharamveer Singh</a></h1>
