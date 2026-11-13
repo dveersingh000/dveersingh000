@@ -1,6 +1,6 @@
 <!-- PROFILE VISIT COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DharamveerSingh&abbreviated=true&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dveersingh000&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="dveersingh000" />
 </p>
   
 ![Profile Banner](https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg)
