@@ -12,7 +12,7 @@
 
 ### ✨ Quick Overview
 
-- 💼 Full Stack Developer with **3+ years of experience**
+- 💼 Full Stack Developer with **4+ years of experience**
 - ⚛️ Specialized in **React.js**, **Node.js**, **Express.js**, **REST APIs**, **JavaScript ES6+**, and modern UI development
 - ☁️ Working knowledge of **AWS**, **Azure**, **Docker**, **Kubernetes**, **Terraform**, and **CI/CD pipelines**
 - 🛠️ Strong experience in **Admin Dashboards**, **Cloud deployment**, **DevSecOps practices**, and **Responsive design**
@@ -108,4 +108,4 @@ A production-ready job search platform built for managing employers, jobs, and a
 
 ---
 
-⭐ *Always open to frontend roles, freelance work, and impactful collaborations.*
+⭐ *Always open to frontend, backend & full stack roles, freelance work, and impactful collaborations.*
