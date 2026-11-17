@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=dveersingh000&abbreviated=true&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="dveersingh000" />
 </p>
   
-<img src="https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg" alt="Profile Banner" width="90%">
+<img src="https://user-images.githubusercontent.com/115470266/205470710-295ad6e0-91b3-4da2-b7ad-397d835375f7.jpg" alt="Profile Banner" width="80%">
 
 <h1 align="center">Hey there 👋, I'm <a href="https://dveersingh000.github.io/My-Portfolio/" target="_blank">Dharamveer Singh</a></h1>
 <h3 align="center">Full Stack Developer | React Developer | Cloud & DevOps Enthusiast</h3>
